@@ -1,0 +1,40 @@
+{
+  "Birlasoft": [
+    {
+      "name": "Anshul",
+      "designation": "Technical specialist",
+      "shift": "morning",
+      "id": 1
+    },
+    {
+      "name": "Aman",
+      "designation": "Technical Lead",
+      "shift": "afternoon",
+      "id": 2
+    },
+    {
+      "name": "nitesh",
+      "designation": "Associate Software developer",
+      "shift": "night",
+      "id": 4
+    },
+    {
+      "name": "Chaitrali",
+      "designation": "Developer",
+      "shift": "Afternoon",
+      "id": 5
+    },
+    {
+      "name": "Shrutika",
+      "designation": "Developer",
+      "shift": "Afternoon",
+      "id": 6
+    },
+    {
+      "name": "Vishvajeet",
+      "designation": "Software developer",
+      "shift": "Morning",
+      "id": 7
+    }
+  ]
+}
